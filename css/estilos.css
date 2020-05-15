@@ -84,14 +84,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-/* ------------------------- */
-/* Header */
-/* ------------------------- */
-/*.header {
-    background: url('../media/bg-imagen.jpeg');
-    background-position: center;
-}
-*/
 .header .contenedor-titulo {
     text-align: center;
     position: relative;
@@ -144,11 +136,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .productos article:nth-child(1) {
-    background-image: url('../media/producto-01.jpeg');
+    background-image: url('../media/producto-01.webp');
 }
 
 .productos article:nth-child(2) {
-    background-image: url('../media/producto-02.jpeg');
+    background-image: url('../media/producto-02.webp');
 }
 
 .productos article:nth-child(3) {
